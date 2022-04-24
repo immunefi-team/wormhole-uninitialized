@@ -2,6 +2,7 @@
 pragma solidity ^0.8.0;
 
 interface IWormholeImpl {
+	event ContractUpgraded(address oldContract,address newContract);
 
 	struct Signature {
 		bytes32 r;
