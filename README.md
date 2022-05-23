@@ -12,6 +12,6 @@ npx hardhat run poc.js
 
 Wormhole initialized the implementation `initialize()` at tx hash: https://etherscan.io/tx/0x9acb2b580aba4f5be75366255800df5f62ede576619cb5ce638cedc61273a50f at blockNumber: 14269474
 
-It was recorded that $736 million worth of assets residing in the contract at the time of submission.
+It was recorded that $1.8 billion worth of assets residing in the contract at the time of submission.
 
  Hacker could have held the entire protocol ransom with the threat that the Ethereum Wormhole bridge would be bricked, and all the funds residing in that contract lost forever.
